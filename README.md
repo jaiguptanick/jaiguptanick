@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/jaiguptanick" target="blank"><img src="https://img.shields.io/twitter/follow/jaiguptanick?logo=twitter&style=for-the-badge" alt="jaiguptanick" /></a> </p>
 
-- 📝 I regularly write articles on [jaiguptanick.medium.com](jaiguptanick.medium.com)
+- 📝 I regularly write articles on [jaiguptanick.medium.com](https://jaiguptanick.medium.com)
 
 - 📫 How to reach me **jaiguptanick@gmail.com**
 
@@ -15,7 +15,7 @@
 <a href="https://twitter.com/jaiguptanick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaiguptanick" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jaiguptanick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaiguptanick" height="30" width="40" /></a>
 <a href="https://medium.com/@jaiguptanick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jaiguptanick" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/thesecuretube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thesecuretube" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@thesecuretube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thesecuretube" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,16 +23,11 @@
 
 
 <!--
-**jaiguptanick/jaiguptanick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
