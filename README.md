@@ -3,9 +3,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Cyber+Security+Engineer;Interest+In+Penetration+Testing;Red+Teaming"></a>
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://raw.githubusercontent.com/jaiguptanick/jaiguptanick/main/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
 
 - 👩🏻‍🚀 Proficient in Penetration testing, Red Teaming, VAPT, Web Appliction Security.
 - 🍳 Love doing OSINT investigations. 
