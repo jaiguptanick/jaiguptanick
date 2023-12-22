@@ -7,11 +7,11 @@
 
 
 
-- 👩🏻‍🚀 Proficient in Penetration testing, Red Teaming, VAPT, Web Appliction Security.
-- 🍳 Love doing OSINT investigations. 
+- 👩🏻‍🚀 Proficient in Web Appliction Security, Red Teaming, Thick Client Pentesting, Network Security, Threat Modeling.
+- 🍳 Love doing OSINT investigations.
 - 🛠️ Enjoys tinkering with Raspberry Pi, Arduino, other hardware and IoT devices.
 - 🕹️ Participate in various CTF competitions.
-- 💰 Does Bug Bounty Sometimes
+- 💰 Does Bug Bounty Sometimes.
 - 📝 Write articles & share experiences at [jaiguptanick.medium.com](https://jaiguptanick.medium.com)
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
